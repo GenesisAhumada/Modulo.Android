@@ -1,0 +1,15 @@
+<resources>
+    <string name="Ingresa_"> Ingresa tu Email</string>
+    <string name="app_name">Genesis.Garcia.AlkeWallet</string>
+    <string name="Email">Email</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="contrasena2">Reingreso contraseña</string>
+    <string name="Inicio">Inicio</string>
+    <string name="enviardinero">Enviar Dinero</string>
+    <string name="recibirdinero">Recibir Dinero</string>
+    <string name="miPerfil">Mi perfil</string>
+    <string name="balance">Balance total</string>
+    <string name="transacciones">Ultimas transacciones</string>
+    <string name="notas">Notas de transferencia</string>
+</resources>
